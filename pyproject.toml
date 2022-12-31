@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "face-r-poject"
+version = "0.1"
+description = ""
+authors = ["Evgeniy <eu.masch@yandex.ru>"]
+readme = "README.md"
+packages = [{include = "face_r_poject"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
