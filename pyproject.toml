@@ -2,7 +2,7 @@
 name = "face-r-poject"
 version = "0.1"
 description = ""
-authors = ["Evgeniy <eu.masch@yandex.ru>"]
+authors = ["Evgeniy <eu.m@yandex.ru>"]
 readme = "README.md"
 packages = [{include = "face_r_poject"}]
 
